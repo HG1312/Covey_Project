@@ -1,7 +1,7 @@
 # Covey_Project
 Responsive E-Commerce Website (Mobile-First)
 
-This project showcases a fully responsive e-commerce website designed with a mobile-first approach. It seamlessly adapts to various screen sizes, ensuring optimal user experience across desktop, tablets, and mobile devices.
+This project dives deep into the power of Responsive Web Design (RWD) for e-commerce websites. Built with a mobile-first approach, it seamlessly adjusts layout, content, and navigation to provide an exceptional user experience across all devices – desktops, tablets, and smartphones.
 
 Key Features:
 
